@@ -29,6 +29,7 @@ If you use something from my repo in your project please credit me
 - zenity
 - appmenu-gtk-module
 - tar
+- xz
 - wget
 - curl
 - All R/W rights on your home folder and the installer folder
